@@ -18,8 +18,8 @@
 | 파일 | 쓰임 |
 |---|---|
 | `mark.png` | 심볼 마크 (투명 배경, 3005×1765) |
-| `wordmark.png` | 가로형 로고 (밝은 배경용) |
-| `wordmark-dark.png` | 가로형 로고 (어두운 배경용) |
+| `wordmark.png` | 가로형 로고 (밝은 배경용, 2351×417) |
+| `wordmark-dark.png` | 가로형 로고 (어두운 배경용, 2351×417) |
 | `avatar-white.png` | 조직 아바타 (흰 배경, 1024×1024) |
 | `avatar-navy.png` | 조직 아바타 (남색 배경, 1024×1024) |
 | `avatar-transparent.png` | 조직 아바타 (투명 배경, 1024×1024) |

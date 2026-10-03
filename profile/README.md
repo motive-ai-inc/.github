@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/motive-ai-inc/.github/main/profile/assets/mark.png" width="150" alt="MOTIVE AI">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/motive-ai-inc/.github/main/profile/assets/wordmark-dark.png">
+  <img src="https://raw.githubusercontent.com/motive-ai-inc/.github/main/profile/assets/wordmark.png" width="440" alt="MOTIVE AI">
+</picture>
 
 # 주식회사 모티브AI
 
@@ -28,7 +31,7 @@ MOTIVE AI는 사람의 생각에서 시작된 가능성을 AI의 기술로 연�
 
 모티브AI는 이 세 단계를 두 축으로 구현합니다. 스스로 판단하는 **AGENTIC AI**와 현실에서 행동하는 **PHYSICAL AI**입니다.
 
-맨 위에 있는 마크가 이 세 단계의 흐름을 담았습니다. 유연하게 이어지는 `M`의 형태는 생각(Think)과 결정(Decide), 행동(Act)이 자연스럽게 흐르며 더 나은 미래로 나아가는 여정을 상징합니다.
+맨 위 로고의 M 마크가 이 세 단계의 흐름을 담았습니다. 유연하게 이어지는 `M`의 형태는 생각(Think)과 결정(Decide), 행동(Act)이 자연스럽게 흐르며 더 나은 미래로 나아가는 여정을 상징합니다.
 
 ## 함께할 분을 찾습니다
 
